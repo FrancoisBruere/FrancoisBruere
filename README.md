@@ -1,7 +1,7 @@
-- 👋 Hi, I’m FrancoisBruere
+- 👋 Hi, I’m Francois Bruere
 - 👀 I’m interested in development and have completed the below courses 
-- 🌱 I have completed C#, ASP.Net Core, Entity Framework,  will also be doing a complete Python course soon.
-- 💞️ I’m looking to relocate outside South Africa or if possible remote Development position 
+- 🌱 I have completed C#, ASP.Net Core, Entity Framework, HTML, CSS, Javascript, Node, React, MongoDB.
+- 💞️ I’m looking to relocate outside South Africa or if possible remote Development position, full stack developer.
 - 📫 How to reach me: You can contact me via Email: francois.bruere@gmail.com or on my mobile +27718729994
 
 <!---
