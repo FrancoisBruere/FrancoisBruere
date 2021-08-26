@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francois Bruere
 - 👀 I’m a full stack developer. 
-- 🌱 I have completed C#, ASP.Net Core, Entity Framework, HTML, CSS, Javascript, Node, React, MongoDB.
+- 🌱 I have completed C#, ASP.Net Core, Entity Framework, Blazor, HTML, CSS, Javascript, Node, React, MongoDB.
 - 💞️ I’m looking to relocate outside South Africa or if possible remote Development position, full stack developer.
 - 📫 How to reach me: You can contact me via Email: francois.bruere@gmail.com or on my mobile +27718729994
 
