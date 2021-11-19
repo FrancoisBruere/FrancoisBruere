@@ -2,7 +2,7 @@
 - 👀 I’m a full stack developer. 
 - 🌱 I specialize in Blazor, C#, ASP.Net Core, Entity Framework, SQL, HTML, CSS, Javascript, Node, MongoDB.
 - 💞️ I’m looking to relocate outside South Africa or if possible remote Development position, full stack developer.
-- 📫 How to reach me: You can contact me via Email: francois.bruere@gmail.com or on my mobile +27718729994
+- 📫 How to reach me: Email: francois.bruere@gmail.com mobile +27718729994
 
 <!---
 FrancoisBruere/FrancoisBruere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
